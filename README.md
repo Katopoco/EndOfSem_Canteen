@@ -27,21 +27,21 @@ A previous customer can log in though:
 
 # Feature Checklist
 1. User Registration & Profile Management
-✔ Implement a secure registration and login system.
-✔ Store user preferences, including dietary restrictions and allergies.
+- ✔ Implement a secure registration and login system.
+- ✔ Store user preferences, including dietary restrictions and allergies.
 
 3. Menu Display & Customization 
-✔ Display menu items with options for customization (e.g., extra toppings).
-✔ Each menu item must include details like item name, price, category, and nutritional
+- ✔ Display menu items with options for customization (e.g., extra toppings).
+- ✔ Each menu item must include details like item name, price, category, and nutritional
 information.
 
 5. Ordering System with Cart 
-✔ Implement a cart where users can add items, view order totals, and place orders.
-✔ Allow users to review and adjust their orders before confirming.
+- ✔ Implement a cart where users can add items, view order totals, and place orders.
+- ✔ Allow users to review and adjust their orders before confirming.
 
 5. Order Tracking & Loyalty Program 
-✔ Enable users to track their order status (e.g., Preparing, Ready for Pickup).
-✔ Implement a loyalty system where users earn points for each order, redeemable for
+- ✔ Enable users to track their order status (e.g., Preparing, Ready for Pickup).
+- ✔ Implement a loyalty system where users earn points for each order, redeemable for
 discounts.
 
 # Installation Instructions
