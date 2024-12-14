@@ -16,7 +16,7 @@ Koranteng's Canteen is a responsive web application for a restaurant that provid
 https://korantingscafe.netlify.app/menu
 
 # Login Details
-A customner can sign up with a new gmail account and log in using the same credentials but another customer can't sign up using the same gmail as they will get this error:
+A customer can sign up with a new gmail account and log in using the same credentials but another customer can't sign up using the same gmail as they will get this error:
 
 <img width="468" alt="Screenshot 2024-12-14 at 12 04 55 PM" src="https://github.com/user-attachments/assets/12f923af-34e4-49df-ad2a-1807e2cc85be" />
 
