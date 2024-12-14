@@ -76,7 +76,7 @@ Should in-case you encounter permission issues when running npm run dev, try the
 - rm -rf node_modules package-lock.json
 - npm install
 
-After this is resolved, you can start the installation instruction again.
+After this is resolved, you can start the installation instructions again.
 
 # API Documentation
 These are the screenshots of my API TESTING on Postman:
