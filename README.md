@@ -53,28 +53,28 @@ Before running this project, make sure you have the following installed on your 
 
 # Step-by-Step Installation Instructions
 1. Clone the Repository
-git clone https://github.com/Katopoco/EndOfSem_Canteen.git
+- git clone https://github.com/Katopoco/EndOfSem_Canteen.git
 
 2. Navigate to Project Directory
-cd EndOfSem_Canteen
+- cd EndOfSem_Canteen
 
 3. Install Dependencies
-npm install
+- npm install
 
 4. Start the Development Server
-npm run dev
+- npm run dev
 
 5. Access the Application
-http://localhost:5173
+- http://localhost:5173
 
-Optional: Troubleshooting Permission Issues
+Optional: Troubleshooting Permission Issues:
 Should in-case you encounter permission issues when running npm run dev, try the following instructions:
 1. Fix permissions for Vite
-chmod +x node_modules/.bin/vite
+- chmod +x node_modules/.bin/vite
 
 2. Reinstall dependencies if needed
-rm -rf node_modules package-lock.json
-npm install
+- rm -rf node_modules package-lock.json
+- npm install
 
 After this is resolved, you can start the installation instruction again.
 
@@ -97,7 +97,7 @@ These are the screenshots of my API TESTING on Postman:
 
 <img width="960" alt="get order" src="https://github.com/user-attachments/assets/4ad1e7bb-cccd-4d28-875d-0bea18eeaf3c" />
 
-- Order Updates Endpoint Screenshot
+- Update Order Endpoint Screenshot
 
 <img width="958" alt="order update" src="https://github.com/user-attachments/assets/52c14c9b-9cfe-43fc-9fac-080bdcabb92a" />
 
