@@ -6,11 +6,11 @@ Koranteng's Canteen is a responsive web application for a restaurant that provid
 - Allow customers to browse through various food offerings.
 - Log in / Sign up to create accounts; Adding any dietary restrictions or allergies. As well edit their accounts after creating them.
 - Earn and redeem loyalty points to gain discounts on future orders.
-- Search and filter for specific meals they want and.
+- Search and filter for specific meals they want.
 - Customize their orders to add or remove anything they want as well as to view the nutritional facts about the menu.
-- View and edit their cart and view the total for their orders.
+- View and edit their cart, as well as view the sub-total/total for their orders.
 - Track their orders after ordering it in different phases (Order Received, Preparing, Ready, Completed)
-- View previous orders.
+- View order history.
 
 # Deployment link - Netlify
 https://korantingscafe.netlify.app/menu
