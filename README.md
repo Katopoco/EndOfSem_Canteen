@@ -67,7 +67,7 @@ Before running this project, make sure you have the following installed on your 
 5. Access the Application
 - http://localhost:5173
 
-Optional: Troubleshooting Permission Issues:
+# Optional: Troubleshooting Permission Issues
 Should in-case you encounter permission issues when running npm run dev, try the following instructions:
 1. Fix permissions for Vite
 - chmod +x node_modules/.bin/vite
